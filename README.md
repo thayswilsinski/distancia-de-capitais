@@ -1,4 +1,4 @@
-# distancia-de-capitais
+# Projeto distancias de capitais
 projeto de tabela, aonde medimos a distâncias entre capitais do Brasil 
 <br>
 Curitiba<br>
